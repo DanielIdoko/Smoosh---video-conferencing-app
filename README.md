@@ -12,10 +12,12 @@ Before getting started make sure you:
 2. Have an account with Clerk or create one
 
 1. Clone this repo or download as zip file
-2. ```js cd ``` into the folder 
-3. Run: ```js
+2. cd into the folder in your terminal or command line or just open up in your IDE used  
+3. Run:
+
+   ```js
    npm i - install neccessary packages
 
    npm run dev - Start development server
-```
+   ```
 
