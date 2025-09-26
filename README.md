@@ -15,13 +15,13 @@ Before getting started make sure you:
 3. Clone this repo or download as zip file
 4. Provide the environment vaiables needed by clerk and stream
    ```js
-   ###Clerk
+   //Clerk
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=//Your clerk key here
    CLERK_SECRET_KEY=//Your clerk secret key here
-   NEXT_PUBLIC_CLERK_SIGN_IN_URL=e.g '/sign-in'
-   NEXT_PUBLIC_CLERK_SIGN_UP_URL=e.g '/sign-up'
+   NEXT_PUBLIC_CLERK_SIGN_IN_URL=//e.g '/sign-in'
+   NEXT_PUBLIC_CLERK_SIGN_UP_URL=//e.g '/sign-up'
 
-   ###Stream
+   //Stream
    NEXT_PUBLIC_STREAM_API_KEY=//your strem public api key here
    STREAM_SECRET_KEY=//Your stream secret key here
    ````
